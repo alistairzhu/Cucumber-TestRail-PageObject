@@ -15,10 +15,10 @@ public class TestRailIntegrationClient {
     private static TestRailIntegrationClient myself = new TestRailIntegrationClient();
 
     //Projects
-    private static final int AUTOMATION_PROJECT_ID = 8;
+    private static final int AUTOMATION_PROJECT_ID = 1;
 
     //Suites
-    private static final int AUTOMATION_SUITE_ID = 14;
+    private static final int AUTOMATION_SUITE_ID = 1;
 
 
     //Section
@@ -32,8 +32,8 @@ public class TestRailIntegrationClient {
     private static final int TEST_PASSED_STATUS_ID = 1;
 
     //Test Rail Authorization
-    private static final String TEST_RAIL_USERNAME = "jono.gebers@jembi.org";
-    private static final String TEST_RAIL_PASSWORD = "jembi123";
+    private static final String TEST_RAIL_USERNAME = "alistair.zhu@laserfiche.com";
+    private static final String TEST_RAIL_PASSWORD = "19Unipas91";
 
     TestRail.Cases cases;
     TestRail testRail;
@@ -45,7 +45,8 @@ public class TestRailIntegrationClient {
     List<ResultField> customResultFields;
 
     private TestRailIntegrationClient() {
-        this.testRail = TestRail.builder("https://jembi.testrail.net", TEST_RAIL_USERNAME, TEST_RAIL_PASSWORD).applicationName("playground").build();
+ //       this.testRail = TestRail.builder("https://jembi.testrail.net", TEST_RAIL_USERNAME, TEST_RAIL_PASSWORD).applicationName("playground").build();
+        this.testRail = TestRail.builder("https://laserfiche20.testrail.net", TEST_RAIL_USERNAME, TEST_RAIL_PASSWORD).applicationName("Cucumber").build();
         this.project = testRail.projects().get(AUTOMATION_PROJECT_ID).execute();
         this.suites = testRail.suites();
         this.sections = testRail.sections();
