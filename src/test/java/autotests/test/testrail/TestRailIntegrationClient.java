@@ -15,17 +15,19 @@ public class TestRailIntegrationClient {
     private static TestRailIntegrationClient myself = new TestRailIntegrationClient();
 
     //Projects
-    private static final int AUTOMATION_PROJECT_ID = 1;
+    private static final int AUTOMATION_PROJECT_ID = 2;
 
     //Suites
-    private static final int AUTOMATION_SUITE_ID = 1;
+    private static final int AUTOMATION_SUITE_ID = 2;
 
 
     //Section
+ /*
     private static final int AUTOMATION_SECTION = 14;
-
-
     private static final int AUTOMATION_CASE = 31;
+*/
+    private static final int AUTOMATION_SECTION = 2;
+    private static final int AUTOMATION_CASE = 2;
 
     //Test Case Status IDs
     private static final int TEST_FAILED_STATUS_ID = 5;

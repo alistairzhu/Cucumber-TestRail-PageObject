@@ -4,17 +4,18 @@
     <list default="true" id="5528f6dd-1507-4291-bfbc-4c23ed62c975" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/autotests/test/testrail/TestRailIntegrationClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/autotests/test/testrail/TestRailIntegrationClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/test/test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/test/test.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/testData/TestData-seleniumframework.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/testData/TestData-seleniumframework.xlsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber/formatter.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/formatter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber/jquery-1.8.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/jquery-1.8.2.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/cucumber/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/report.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/cucumber/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/Scenario_ Check the landing page of google.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/Scenario_ Check the landing page of google.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-Scenario_ Check the landing page of google.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-Scenario_ Check the landing page of google.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/autotests/test/helpers/PropertiesUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/autotests/test/helpers/PropertiesUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-autotests.test.RunCukesTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-autotests.test.RunCukesTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/autotests.test.RunCukesTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/autotests.test.RunCukesTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/autotests/test/testrail/TestRailIntegrationClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/autotests/test/testrail/TestRailIntegrationClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/test/test.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/test/test.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testData/TestData-seleniumframework.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testData/TestData-seleniumframework.xlsx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,18 +27,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TestPageObject.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/pageobjects/TestPageObject.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CommonModel.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/model/common/CommonModel.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,13 +39,13 @@
       <file leaf-file-name="SharedStorage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/helpers/SharedStorage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="250">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DriverFunctions.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DriverFunctions.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/helpers/DriverFunctions.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
@@ -69,7 +58,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/model/common/TestPageModel.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="160">
-              <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="33" />
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -77,8 +66,17 @@
       <file leaf-file-name="TestRailIntegrationClient.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/testrail/TestRailIntegrationClient.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-300">
-              <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            <state relative-caret-position="560">
+              <caret line="36" column="81" lean-forward="true" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Hooks.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/step_definitions/Hooks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="433">
+              <caret line="114" column="48" lean-forward="true" selection-start-line="114" selection-start-column="48" selection-end-line="114" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -86,35 +84,26 @@
       <file leaf-file-name="RunCukesTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/RunCukesTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="340">
+              <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BasePage.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/pageobjects/BasePage.java">
+      <file leaf-file-name="test.feature" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/features/test/test.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            <state relative-caret-position="60">
+              <caret line="3" column="79" lean-forward="true" selection-start-line="3" selection-start-column="79" selection-end-line="3" selection-end-column="79" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CommonSteps.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CommonSteps.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/step_definitions/common/CommonSteps.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="80">
               <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestStepDefinition.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/step_definitions/common/TestStepDefinition.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -128,6 +117,12 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>features</find>
+      <find>classpath</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -136,22 +131,22 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/resources/properties/dev.properties" />
         <option value="$PROJECT_DIR$/src/test/resources/properties/local.properties" />
-        <option value="$PROJECT_DIR$/src/test/resources/features/test/test.feature" />
         <option value="$PROJECT_DIR$/src/test/java/autotests/test/pageobjects/TestPageObject.java" />
         <option value="$PROJECT_DIR$/src/test/java/autotests/test/step_definitions/common/TestStepDefinition.java" />
         <option value="$PROJECT_DIR$/src/test/java/autotests/test/model/common/TestPageModel.java" />
         <option value="$PROJECT_DIR$/src/test/resources/properties/production.properties" />
         <option value="$PROJECT_DIR$/src/test/resources/properties/staging.properties" />
         <option value="$PROJECT_DIR$/src/test/resources/properties/test.properties" />
-        <option value="$PROJECT_DIR$/src/test/java/autotests/test/step_definitions/Hooks.java" />
         <option value="$PROJECT_DIR$/src/test/java/autotests/test/RunCukesTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/autotests/test/testrail/TestRailIntegrationClient.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/features/test/test.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/autotests/test/step_definitions/Hooks.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1263" />
-    <option name="y" value="273" />
+    <option name="x" value="593" />
+    <option name="y" value="121" />
     <option name="width" value="195" />
     <option name="height" value="311" />
   </component>
@@ -187,7 +182,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -282,11 +277,36 @@
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="auto-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-test-cucumber-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="testData" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-test-cucumber-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-test-cucumber-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="surefire-reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="auto-tests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="auto-test-cucumber-framework" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+              <item name="test-classes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -306,12 +326,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.RunCukesTest">
+  <component name="RunManager" selected="Cucumber java.Feature: test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Feature: test" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="auto-tests" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration name="Scenario: Check the landing page of google" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
@@ -388,9 +419,11 @@
     <list>
       <item itemvalue="Cucumber java.Scenario: Check the landing page of google" />
       <item itemvalue="JUnit.RunCukesTest" />
+      <item itemvalue="Cucumber java.Feature: test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber java.Feature: test" />
         <item itemvalue="JUnit.RunCukesTest" />
         <item itemvalue="Cucumber java.Scenario: Check the landing page of google" />
       </list>
@@ -410,15 +443,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Feature__test - 2017.09.26 at 17h 42m 49s.xml">
-      <configuration name="Feature: test" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Feature__test - 2017.09.26 at 17h 46m 30s.xml">
-      <configuration name="Feature: test" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
-    <history-entry file="Scenario__Check_the_landing_page_of_google - 2018.11.15 at 06h 44m 33s.xml">
-      <configuration name="Scenario: Check the landing page of google" configurationId="CucumberJavaRunConfigurationType" />
-    </history-entry>
     <history-entry file="Scenario__Check_the_landing_page_of_google - 2018.11.15 at 07h 05m 06s.xml">
       <configuration name="Scenario: Check the landing page of google" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
@@ -440,6 +464,15 @@
     <history-entry file="RunCukesTest - 2018.11.15 at 07h 30m 47s.xml">
       <configuration name="RunCukesTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Feature__test - 2018.11.16 at 07h 34m 14s.xml">
+      <configuration name="Feature: test" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__test - 2018.11.16 at 07h 37m 00s.xml">
+      <configuration name="Feature: test" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="Feature__test - 2018.11.16 at 07h 46m 01s.xml">
+      <configuration name="Feature: test" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
@@ -458,7 +491,8 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32854405" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -471,13 +505,61 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/model/common/TestPageModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/testrail/TestRailIntegrationClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/RunCukesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/pageobjects/BasePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/step_definitions/common/CommonSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/step_definitions/common/TestStepDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/helpers/DriverFunctions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/pageobjects/TestPageObject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -678,27 +760,6 @@
         <state relative-caret-position="-600" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/step_definitions/Hooks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2140">
-          <caret line="122" column="34" lean-forward="true" selection-start-line="122" selection-start-column="34" selection-end-line="122" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/features/test/test.feature">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="48" lean-forward="true" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/testrail/TestRailIntegrationClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-300">
-          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/resources/properties/dev.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
@@ -723,14 +784,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/step_definitions/common/TestStepDefinition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="400">
-          <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/RunCukesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <caret line="29" column="39" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -743,7 +797,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/pageobjects/TestPageObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="280">
           <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -751,17 +805,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/model/common/TestPageModel.java">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/features/test/test.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="33" />
+        <state relative-caret-position="60">
+          <caret line="3" column="79" lean-forward="true" selection-start-line="3" selection-start-column="79" selection-end-line="3" selection-end-column="79" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/step_definitions/common/CommonSteps.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/RunCukesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/helpers/DriverFunctions.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -772,17 +833,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/helpers/SharedStorage.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/codepine/api/testrail-api-java-client/2.0.0/testrail-api-java-client-2.0.0.jar!/com/codepine/api/testrail/Request.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="394">
+          <caret line="139" selection-start-line="139" selection-end-line="140" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/helpers/DriverFunctions.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/testrail/TestRailIntegrationClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="36" column="81" lean-forward="true" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/step_definitions/Hooks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="433">
+          <caret line="114" column="48" lean-forward="true" selection-start-line="114" selection-start-column="48" selection-end-line="114" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/helpers/SharedStorage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/model/common/TestPageModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/autotests/test/step_definitions/common/CommonSteps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="80">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
