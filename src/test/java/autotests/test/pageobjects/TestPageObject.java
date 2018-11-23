@@ -11,7 +11,8 @@ public class TestPageObject extends BasePage {
         super(driver);
     }
 
-    @FindBy(how = How.XPATH, using = "//*[@id=lst-ib]")
+   // @FindBy(how = How.XPATH, using = "//*[@id=lst-ib]")
+    @FindBy(how = How.XPATH, using = "//*[@id='q']")
     public static WebElement googleSearchBar;
 
 

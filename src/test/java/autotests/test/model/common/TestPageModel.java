@@ -9,7 +9,7 @@ public class TestPageModel {
 
     public void enterSearchText(String Text)
     {
-        TestPageObject.googleSearchBar.sendKeys("adasdasdadasd");
+        TestPageObject.googleSearchBar.sendKeys(Text);
     }
 
     public void checkCurrentURl()
