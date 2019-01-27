@@ -34,8 +34,8 @@ public class TestRailIntegrationClient {
     private static final int TEST_PASSED_STATUS_ID = 1;
 
     //Test Rail Authorization
-    private static final String TEST_RAIL_USERNAME = "alistair.zhu@laserfiche.com";
-    private static final String TEST_RAIL_PASSWORD = "19Unipas91";
+    private static final String TEST_RAIL_USERNAME = "";
+    private static final String TEST_RAIL_PASSWORD = "";
 
     TestRail.Cases cases;
     TestRail testRail;
